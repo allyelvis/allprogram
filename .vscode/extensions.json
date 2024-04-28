@@ -1,5 +1,14 @@
 {
     "recommendations": [
-        "amazonwebservices.aws-toolkit-vscode"
+        "amazonwebservices.aws-toolkit-vscode",
+        "dennismaxjung.vscode-dotnet-auto-attach",
+        "lintangwisesa.arduino",
+        "vsciot-vscode.vscode-arduino",
+        "asciidoctor.asciidoctor-vscode",
+        "ronaldosena.arduino-snippets",
+        "owen-flood.arduino-snippets-plus",
+        "adrianwilczynski.asp-net-core-switcher",
+        "aliariff.auto-add-brackets",
+        "skyramp.mocker-vscode"
     ]
 }
