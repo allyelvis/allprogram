@@ -9,6 +9,15 @@
         "owen-flood.arduino-snippets-plus",
         "adrianwilczynski.asp-net-core-switcher",
         "aliariff.auto-add-brackets",
-        "skyramp.mocker-vscode"
+        "skyramp.mocker-vscode",
+        "doggy8088.netcore-editorconfiggenerator",
+        "formulahendry.dotnet-test-explorer",
+        "dotjoshjohnson.xml",
+        "redhat.vscode-yaml",
+        "webossdk.webosstudio",
+        "vue.volar",
+        "hollowtree.vue-snippets",
+        "sdras.vue-vscode-snippets",
+        "ikasann-self.vscode-chat-gpt"
     ]
 }
