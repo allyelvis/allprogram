@@ -1,5 +1,23 @@
 {
     "recommendations": [
-        "amazonwebservices.aws-toolkit-vscode"
+        "amazonwebservices.aws-toolkit-vscode",
+        "dennismaxjung.vscode-dotnet-auto-attach",
+        "lintangwisesa.arduino",
+        "vsciot-vscode.vscode-arduino",
+        "asciidoctor.asciidoctor-vscode",
+        "ronaldosena.arduino-snippets",
+        "owen-flood.arduino-snippets-plus",
+        "adrianwilczynski.asp-net-core-switcher",
+        "aliariff.auto-add-brackets",
+        "skyramp.mocker-vscode",
+        "doggy8088.netcore-editorconfiggenerator",
+        "formulahendry.dotnet-test-explorer",
+        "dotjoshjohnson.xml",
+        "redhat.vscode-yaml",
+        "webossdk.webosstudio",
+        "vue.volar",
+        "hollowtree.vue-snippets",
+        "sdras.vue-vscode-snippets",
+        "ikasann-self.vscode-chat-gpt"
     ]
 }
